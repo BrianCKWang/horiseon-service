@@ -1,21 +1,21 @@
 # The Horiseon Social Services, Inc.
 
-[](https://github.com/BrianCKWang/horiseon-service/blob/master/assets/images/digital-marketing-meeting.jpg?raw=true)
+![](https://github.com/BrianCKWang/horiseon-service/blob/master/assets/images/digital-marketing-meeting.jpg)
 
 ## Services
 
-### Search Engine Optimization
+* Search Engine Optimization
 
-### Online Reputation Management
+* Online Reputation Management
 
-### Social Media Marketing
+* Social Media Marketing
 
 ## Benefits
 
-### Lead Generation
+* Lead Generation
 
-### Brand Awareness
+* Brand Awareness
 
-### Cost Management
+* Cost Management
 
 Learn more: [Horiseon Social Services, Inc.](https://brianckwang.github.io/horiseon-service/)
