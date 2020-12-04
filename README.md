@@ -1,6 +1,6 @@
 # The Horiseon Social Services, Inc.
 
-![](https://github.com/BrianCKWang/horiseon-service/blob/master/assets/images/digital-marketing-meeting.jpg)
+![horiseon pic](https://github.com/BrianCKWang/horiseon-service/blob/master/assets/images/digital-marketing-meeting.jpg)
 
 ## Services
 
