@@ -2,20 +2,28 @@
 
 ![horiseon pic](https://github.com/BrianCKWang/horiseon-service/blob/master/assets/images/digital-marketing-meeting.jpg)
 
-## Services
+## Project Objective
 
-* Search Engine Optimization
+* To add semantic to html and consolidate css.
 
-* Online Reputation Management
+## Description
 
-* Social Media Marketing
+SEO marketing service
 
-## Benefits
+ - Services
 
-* Lead Generation
+   - Search Engine Optimization
 
-* Brand Awareness
+   - Online Reputation Management
 
-* Cost Management
+   - Social Media Marketing
 
-Learn more: [Horiseon Social Services, Inc.](https://brianckwang.github.io/horiseon-service/)
+- Benefits
+
+  - Lead Generation
+
+  - Brand Awareness
+
+  - Cost Management
+
+Deployed URL: [Horiseon Social Services, Inc.](https://brianckwang.github.io/horiseon-service/)
